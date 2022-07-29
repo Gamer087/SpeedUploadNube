@@ -9,7 +9,7 @@
     },
     "bot_token": {
       "description": "Token del bot",
-      "value": ""
+      "value": "5558144271:AAGnum8OeYTnKh3zflPxH5FVnMxk3Z0kQjQ"
     }
   },
   "buildpacks": [
